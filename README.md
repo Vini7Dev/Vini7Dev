@@ -1,7 +1,9 @@
 ## 💙 Hello, my name is <strong>Viícius</strong>!
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="display: flex; flex-direction: column;">
+<div>
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right">
+
+  <div align="left">
   👨‍💻 Full Stack Developer Mid-level at Codeby <br /><br />
   💬 Always keep learning! <br /><br />
   💌 Contact me: ⤵️ <br />
@@ -16,8 +18,6 @@
   </a>
   </p>
   </div>
-
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px">
 </div>
 
 ## 🚀 My Skills
@@ -44,12 +44,11 @@ In the overview below you will find my most recent work experience:
 
   <p style="margin-left: 12px;">
 
-  **Full Stack Developer  (Mid-level)** \
-  [**Codeby**](https://codeby.global/) • may/2023 > at the time \
-  **Back-end Developer (Junior & Mid-level)** \
-  [**Codeby**](https://codeby.global/) • nov/2021 > may/2023 \
+  **Full Stack Developer  (Mid-level)** • may/2023 > at the time \
+  **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 \
+  Company: [**Codeby**](https://codeby.global/)  \
   Technologies: `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `API REST`, `Git`, `Docker`, `Software Documentation` \
-  Featured projects: [Canali](https://www.canali.com/), [Mercafé](https://www.mercafe.com.br/), [WAAW](https://waaw.com.br/), [Dengo](https://www.dengo.com.br/), [Saraiva](https://www.saraiva.com.br/)
+  Featured projects: [Canali](https://www.canali.com/), [Mercafé](https://www.mercafe.com.br/), [WAAW](https://waaw.com.br/), [Dengo](https://www.dengo.com.br/), [Saraiva](https://www.saraiva.com.br/).
   </p>
 </div>
 
@@ -61,8 +60,8 @@ In the overview below you will find my most recent work experience:
 
   <p style="margin-left: 12px;">
 
-  **Technical Support Analyst** \
-  [**Uni-FACEF**](https://www.unifacef.com.br/) • oct/2020 > nov/2021
+  **Technical Support Analyst** • oct/2020 > nov/2021 \
+  Company: [**Uni-FACEF**](https://www.unifacef.com.br/)
   </p>
 </div>
 
