@@ -40,7 +40,7 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
+  [<img align="left" height="150px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
 
   <p align="right">
 
@@ -54,7 +54,7 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="left" height="150px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
   <p align="right">
 
@@ -74,7 +74,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="left" height="150px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
   <p align="right">
 
