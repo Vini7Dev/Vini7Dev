@@ -40,9 +40,9 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
+  [<img align="right" width="94px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
 
-  <p align="right">
+  <p align="left">
 
   **Full Stack Developer  (Mid-level)** • may/2023 > at the time \
   **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 \
@@ -54,9 +54,9 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="right" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
-  <p align="right">
+  <p align="left">
 
   **Technical Support Analyst** • oct/2020 > nov/2021 \
   Company: [**Uni-FACEF**](https://www.unifacef.com.br/)
@@ -74,9 +74,9 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="right" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
-  <p align="right">
+  <p align="left">
 
   **Computer Science** \
   [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 \
