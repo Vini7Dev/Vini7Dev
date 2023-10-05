@@ -37,7 +37,18 @@ Featured projects: [Canali](https://www.canali.com/), [Mercafé](https://www.mer
 [<img align="left" width="94px" alt="Uni-FACEF" src="https://appribeirao.com.br/uploads/associados/Uni_FACEF_MUNICIPAL_PNG_ugzcmtvxviajs0m.png"/>](https://www.unifacef.com.br/)
 
 **Technical Support Analyst** \
-[**Uni-FACEF**](https://www.unifacef.com.br/) • oct/2020 > nov/2021 \
+[**Uni-FACEF**](https://www.unifacef.com.br/) • oct/2020 > nov/2021
 <br/>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience, education and certification.
+
+---
+
+### Academic education
+
+[<img align="left" width="94px" alt="Uni-FACEF" src="https://appribeirao.com.br/uploads/associados/Uni_FACEF_MUNICIPAL_PNG_ugzcmtvxviajs0m.png"/>](https://www.unifacef.com.br/)
+
+**Computer Science** \
+[**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 \
+Bachelor's degree
+<br/>
