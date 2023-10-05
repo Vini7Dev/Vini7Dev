@@ -38,11 +38,11 @@
 
 In the overview below you will find my most recent work experience:
 
-<div style="display: flex;">
+<div>
 
-  [<img align="left" width="150px" alt="Codeby, a Keyrus company" src="https://codeby.global/cdn/shop/files/logo-default-v2.png?v=1684868339&width=500"/>](https://codeby.global/)
+  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
 
-  <p style="margin-left: 12px;">
+  <p align="right">
 
   **Full Stack Developer  (Mid-level)** • may/2023 > at the time \
   **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 \
@@ -52,18 +52,19 @@ In the overview below you will find my most recent work experience:
   </p>
 </div>
 
-<br/>
+<div>
 
-<div style="display: flex;">
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
-  [<img align="left" width="87px" alt="Uni-FACEF" src="https://appribeirao.com.br/uploads/associados/Uni_FACEF_MUNICIPAL_PNG_ugzcmtvxviajs0m.png"/>](https://www.unifacef.com.br/)
-
-  <p style="margin-left: 12px;">
+  <p align="right">
 
   **Technical Support Analyst** • oct/2020 > nov/2021 \
   Company: [**Uni-FACEF**](https://www.unifacef.com.br/)
   </p>
 </div>
+
+<br/>
+<br/>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
 
@@ -71,11 +72,11 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
 ### Academic education
 
-<div style="display: flex;">
+<div>
 
-  [<img align="left" width="87px" alt="Uni-FACEF" src="https://appribeirao.com.br/uploads/associados/Uni_FACEF_MUNICIPAL_PNG_ugzcmtvxviajs0m.png"/>](https://www.unifacef.com.br/)
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
-  <p style="margin-left: 12px;">
+  <p align="right">
 
   **Computer Science** \
   [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 \
