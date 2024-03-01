@@ -45,6 +45,8 @@
 
 ## 💡 Some projects I worked on
 
+<br/>
+
 <div>
 
   [<img align="left" width="94px" alt="WAAW By Alok" src="/docs/projects/waaw.png"/>](https://waaw.com.br/)
