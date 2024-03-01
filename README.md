@@ -53,7 +53,9 @@
 
   <p align="right">
 
-  **Project:** [**WAAW By Alok**](https://waaw.com.br/)
+  **Project:** [**WAAW By Alok**](https://waaw.com.br/)\
+  **Description:** DJ Alok's official e-commerce \
+  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
 
@@ -65,7 +67,9 @@
 
   <p align="right">
 
-  **Project:** [**GreenShield EAS Auth System**](#)
+  **Project:** [**GreenShield EAS Auth System**](#) \
+  **Description:** Custom authentication service \
+  **Main Tecnologies:** `TypeScript`, `NodeJS`, `NextJS`, `PostgreSQL`, `MongoDB`, `Terraform` , `Docker`, `Google Cloud Platform`
   </p>
 </div>
 
@@ -77,31 +81,9 @@
 
   <p align="right">
 
-  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p)
-  </p>
-</div>
-
-<br/><br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Canali" src="/docs/projects/canali.png"/>](https://us.canali.com/)
-
-  <p align="right">
-
-  **Project:** [**Canali**](https://us.canali.com/)
-  </p>
-</div>
-
-<br/><br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Saraiva" src="/docs/projects/saraiva.png"/>](https://www.saraiva.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Saraiva**](https://www.saraiva.com.br/)
+  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) \
+  **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation \
+  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `Redis`
   </p>
 </div>
 
@@ -113,7 +95,38 @@
 
   <p align="right">
 
-  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/)
+  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) \
+  **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company \
+  **Main Tecnologies:** `VTEX Fast Store`, `TypeScript`, `NodeJS`, `NextJS`, `AWS`
+  </p>
+</div>
+
+<br/><br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Canali" src="/docs/projects/canali.png"/>](https://us.canali.com/)
+
+  <p align="right">
+
+  **Project:** [**Canali**](https://us.canali.com/) \
+  **Description:** E-commerce and customized apps for international clothing sales
+and men's accessories \
+  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `NextJS`
+  </p>
+</div>
+
+<br/><br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Saraiva" src="/docs/projects/saraiva.png"/>](https://www.saraiva.com.br/)
+
+  <p align="right">
+
+  **Project:** [**Saraiva**](https://www.saraiva.com.br/) \
+  **Description:** Customizations for the most famous Brazilian book selling business \
+  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
   </p>
 </div>
 
@@ -125,7 +138,9 @@
 
   <p align="right">
 
-  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/)
+  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) \
+  **Description:** E-commerce apps for a famous chocolate sales company \
+  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`, `AWS`
   </p>
 </div>
 
@@ -137,7 +152,9 @@
 
   <p align="right">
 
-  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/)
+  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) \
+  **Description:** Ecommerce apps for a large shoe and bag sales company \
+  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
 
@@ -159,7 +176,6 @@ In the overview below you will find my most recent work experience:
   **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 \
   **Company:** [**Codeby**](https://codeby.global/)  \
   **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` \
-  Featured projects: [Canali](https://www.canali.com/), [Mercafé](https://www.mercafe.com.br/), [WAAW](https://waaw.com.br/), [Dengo](https://www.dengo.com.br/), [Saraiva](https://www.saraiva.com.br/).
   </p>
 </div>
 
