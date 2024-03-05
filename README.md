@@ -5,7 +5,8 @@
 
   <div align="left">
   👨‍💻 Full Stack Developer Mid-level at Codeby, a Keyrus company <br /><br />
-  💬 Always keep learning! <br /><br />
+  👨‍🎓 Computer Scientist <br /><br />
+  💬 Always keep learning... <br /><br />
   💌 Contact me: ⤵️ <br /><br />
 
   <p>
@@ -97,8 +98,6 @@
 <br/><br/>
 
 ## 💡 Some projects I worked on
-
-<br/>
 
 <div>
 
@@ -244,8 +243,6 @@ In the overview below you will find my most recent work experience:
 <br/><br/>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
-
-<br />
 
 ## 📘 Academic education
 
