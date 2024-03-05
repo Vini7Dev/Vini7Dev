@@ -221,7 +221,7 @@ In the overview below you will find my most recent work experience:
   **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
   **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
   **Company:** [**Codeby**](https://codeby.global/)  <br />
-  **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
+  **Some technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
   </p>
 </div>
 
