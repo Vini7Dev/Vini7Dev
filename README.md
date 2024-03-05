@@ -1,4 +1,4 @@
-## 💙 Hello, my name is Vinícius!
+# 💙 Hello, my name is Vinícius!
 
 <div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right">
@@ -43,6 +43,66 @@
 
 <br/>
 
+## 📜 Certifications
+
+<br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Oracle Academy" src="/docs/certificates/oracle-academy.png"/>](#)
+
+  <p align="right">
+
+  **Institution:** Partnership between Oracle Academy and Uni-FACEF \
+
+  **Certifications:** `Database Design`, `Programming with SQL`, `Programming with PL/SQL`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Data Science Academy" src="/docs/certificates/data-science-academy.png"/>](#)
+
+  <p align="right">
+
+  **Institution:** Data Science Academy \
+
+  **Certifications:** `Introduction to Data Science 3.0`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Rocketseat" src="/docs/certificates/rocketseat.png"/>](#)
+
+  <p align="right">
+
+  **Institution:** Rocketseat \
+
+  **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="VTEX" src="/docs/certificates/vtex.png"/>](#)
+
+  <p align="right">
+
+  **Institution:** VTEX \
+
+  **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
+  </p>
+</div>
+
+<br/><br/>
+
 ## 💡 Some projects I worked on
 
 <br/>
@@ -59,7 +119,7 @@
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -73,7 +133,7 @@
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -87,7 +147,7 @@
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -101,7 +161,7 @@
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -116,7 +176,7 @@ and men's accessories \
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -130,7 +190,7 @@ and men's accessories \
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -144,7 +204,7 @@ and men's accessories \
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 <div>
 
@@ -158,11 +218,9 @@ and men's accessories \
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
----
-
-### 💼 Work experience
+## 💼 Work experience
 
 In the overview below you will find my most recent work experience:
 
@@ -195,9 +253,7 @@ In the overview below you will find my most recent work experience:
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
 
----
-
-### 📘 Academic education
+## 📘 Academic education
 
 <div>
 
@@ -212,4 +268,6 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 </div>
 <br/>
 
-Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my academic education and certification.
+## ➕ Additional Information
+
+* Willingness and ease in learning.
