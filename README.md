@@ -39,7 +39,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="/docs/certificates/oracle-academy.png"/>](#)
+  [<img align="left" width="94px" alt="Oracle Academy" src="/assets/certificates/oracle-academy.png"/>](#)
 
   <p align="right">
 
@@ -52,7 +52,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Data Science Academy" src="/docs/certificates/data-science-academy.png"/>](#)
+  [<img align="left" width="94px" alt="Data Science Academy" src="/assets/certificates/data-science-academy.png"/>](#)
 
   <p align="right">
 
@@ -65,7 +65,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Rocketseat" src="/docs/certificates/rocketseat.png"/>](#)
+  [<img align="left" width="94px" alt="Rocketseat" src="/assets/certificates/rocketseat.png"/>](#)
 
   <p align="right">
 
@@ -78,7 +78,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="VTEX" src="/docs/certificates/vtex.png"/>](#)
+  [<img align="left" width="94px" alt="VTEX" src="/assets/certificates/vtex.png"/>](#)
 
   <p align="right">
 
@@ -93,7 +93,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="WAAW By Alok" src="/docs/projects/waaw.png"/>](https://waaw.com.br/)
+  [<img align="left" width="94px" alt="WAAW By Alok" src="/assets/projects/waaw.png"/>](https://waaw.com.br/)
 
   <p align="right">
 
@@ -107,7 +107,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="GreenShield" src="/docs/projects/greenshield.png"/>](#)
+  [<img align="left" width="94px" alt="GreenShield" src="/assets/projects/greenshield.png"/>](#)
 
   <p align="right">
 
@@ -121,7 +121,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Insider" src="/docs/projects/insider.png"/>](https://apps.vtex.com/codeby-useinsider/p)
+  [<img align="left" width="94px" alt="Insider" src="/assets/projects/insider.png"/>](https://apps.vtex.com/codeby-useinsider/p)
 
   <p align="right">
 
@@ -135,7 +135,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Mercafé (3 Corações)" src="/docs/projects/mercafe.png"/>](https://www.mercafe.com.br/)
+  [<img align="left" width="94px" alt="Mercafé (3 Corações)" src="/assets/projects/mercafe.png"/>](https://www.mercafe.com.br/)
 
   <p align="right">
 
@@ -149,7 +149,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Canali" src="/docs/projects/canali.png"/>](https://us.canali.com/)
+  [<img align="left" width="94px" alt="Canali" src="/assets/projects/canali.png"/>](https://us.canali.com/)
 
   <p align="right">
 
@@ -164,7 +164,7 @@ and men's accessories <br />
 
 <div>
 
-  [<img align="left" width="94px" alt="Saraiva" src="/docs/projects/saraiva.png"/>](https://www.saraiva.com.br/)
+  [<img align="left" width="94px" alt="Saraiva" src="/assets/projects/saraiva.png"/>](https://www.saraiva.com.br/)
 
   <p align="right">
 
@@ -178,7 +178,7 @@ and men's accessories <br />
 
 <div>
 
-  [<img align="left" width="94px" alt="Dengo Chocolates" src="/docs/projects/dengo.png"/>](https://www.dengo.com.br/)
+  [<img align="left" width="94px" alt="Dengo Chocolates" src="/assets/projects/dengo.png"/>](https://www.dengo.com.br/)
 
   <p align="right">
 
@@ -192,7 +192,7 @@ and men's accessories <br />
 
 <div>
 
-  [<img align="left" width="94px" alt="Mercafé - 3 Corações" src="/docs/projects/santalolla.png"/>](https://www.santalolla.com.br/)
+  [<img align="left" width="94px" alt="Mercafé - 3 Corações" src="/assets/projects/santalolla.png"/>](https://www.santalolla.com.br/)
 
   <p align="right">
 
@@ -210,7 +210,7 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/docs/codeby-logo.png"/>](https://codeby.global/)
+  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/assets/codeby-logo.png"/>](https://codeby.global/)
 
   <p align="right">
 
@@ -223,7 +223,7 @@ In the overview below you will find my most recent work experience:
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
   <p align="right">
 
@@ -240,7 +240,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
 <div>
 
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/docs/unifacef-logo.png"/>](https://www.unifacef.com.br/)
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef-logo.png"/>](https://www.unifacef.com.br/)
 
   <p align="right">
 
