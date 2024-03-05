@@ -40,15 +40,13 @@
 
 ## 📜 Certifications
 
-<br/>
-
 <div>
 
   [<img align="left" width="94px" alt="Oracle Academy" src="/docs/certificates/oracle-academy.png"/>](#)
 
   <p align="right">
 
-  **Institution:** Partnership between Oracle Academy and Uni-FACEF \
+  **Institution:** Partnership between Oracle Academy and Uni-FACEF <br />
 
   **Certifications:** `Database Design`, `Programming with SQL`, `Programming with PL/SQL`
   </p>
@@ -62,7 +60,7 @@
 
   <p align="right">
 
-  **Institution:** Data Science Academy \
+  **Institution:** Data Science Academy <br />
 
   **Certifications:** `Introduction to Data Science 3.0`
   </p>
@@ -76,7 +74,7 @@
 
   <p align="right">
 
-  **Institution:** Rocketseat \
+  **Institution:** Rocketseat <br />
 
   **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
   </p>
@@ -90,7 +88,7 @@
 
   <p align="right">
 
-  **Institution:** VTEX \
+  **Institution:** VTEX <br />
 
   **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
   </p>
@@ -108,8 +106,8 @@
 
   <p align="right">
 
-  **Project:** [**WAAW By Alok**](https://waaw.com.br/)\
-  **Description:** DJ Alok's official e-commerce \
+  **Project:** [**WAAW By Alok**](https://waaw.com.br/)<br />
+  **Description:** DJ Alok's official e-commerce <br />
   **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
@@ -122,8 +120,8 @@
 
   <p align="right">
 
-  **Project:** [**GreenShield EAS Auth System**](#) \
-  **Description:** Custom authentication service \
+  **Project:** [**GreenShield EAS Auth System**](#) <br />
+  **Description:** Custom authentication service <br />
   **Main Tecnologies:** `TypeScript`, `NodeJS`, `NextJS`, `PostgreSQL`, `MongoDB`, `Terraform` , `Docker`, `Google Cloud Platform`
   </p>
 </div>
@@ -136,8 +134,8 @@
 
   <p align="right">
 
-  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) \
-  **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation \
+  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) <br />
+  **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `Redis`
   </p>
 </div>
@@ -150,8 +148,8 @@
 
   <p align="right">
 
-  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) \
-  **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company \
+  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) <br />
+  **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company <br />
   **Main Tecnologies:** `VTEX Fast Store`, `TypeScript`, `NodeJS`, `NextJS`, `AWS`
   </p>
 </div>
@@ -164,9 +162,9 @@
 
   <p align="right">
 
-  **Project:** [**Canali**](https://us.canali.com/) \
+  **Project:** [**Canali**](https://us.canali.com/) <br />
   **Description:** E-commerce and customized apps for international clothing sales
-and men's accessories \
+and men's accessories <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `NextJS`
   </p>
 </div>
@@ -179,8 +177,8 @@ and men's accessories \
 
   <p align="right">
 
-  **Project:** [**Saraiva**](https://www.saraiva.com.br/) \
-  **Description:** Customizations for the most famous Brazilian book selling business \
+  **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
+  **Description:** Customizations for the most famous Brazilian book selling business <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
   </p>
 </div>
@@ -193,8 +191,8 @@ and men's accessories \
 
   <p align="right">
 
-  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) \
-  **Description:** E-commerce apps for a famous chocolate sales company \
+  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) <br />
+  **Description:** E-commerce apps for a famous chocolate sales company <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`, `AWS`
   </p>
 </div>
@@ -207,8 +205,8 @@ and men's accessories \
 
   <p align="right">
 
-  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) \
-  **Description:** Ecommerce apps for a large shoe and bag sales company \
+  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) <br />
+  **Description:** Ecommerce apps for a large shoe and bag sales company <br />
   **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
@@ -225,10 +223,10 @@ In the overview below you will find my most recent work experience:
 
   <p align="right">
 
-  **Full Stack Developer  (Mid-level)** • may/2023 > at the time \
-  **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 \
-  **Company:** [**Codeby**](https://codeby.global/)  \
-  **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` \
+  **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
+  **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
+  **Company:** [**Codeby**](https://codeby.global/)  <br />
+  **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
   </p>
 </div>
 
@@ -238,7 +236,7 @@ In the overview below you will find my most recent work experience:
 
   <p align="right">
 
-  **Technical Support Analyst** • oct/2020 > nov/2021 \
+  **Technical Support Analyst** • oct/2020 > nov/2021 <br />
   **Company:** [**Uni-FACEF**](https://www.unifacef.com.br/)
   </p>
 </div>
@@ -257,8 +255,8 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
 
   <p align="right">
 
-  **Computer Science** \
-  [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 \
+  **Computer Science** <br />
+  [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 <br />
   Bachelor's degree
   </p>
 </div>
