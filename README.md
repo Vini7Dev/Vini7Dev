@@ -6,7 +6,7 @@
   <div align="left">
   👨‍💻 Full Stack Developer Mid-level at Codeby, a Keyrus company <br /><br />
   💬 Always keep learning! <br /><br />
-  💌 Contact me: ⤵️ <br />
+  💌 Contact me: ⤵️ <br /><br />
 
   <p>
   <a href="mailto:viniciusgabriel.pb@gmail.com" alt="Gmail">
@@ -19,6 +19,8 @@
   </p>
   </div>
 </div>
+
+<br />
 
 ## 🚀 My main skills
 
@@ -33,13 +35,6 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
-<br/>
-
-<p align='center'>
-   <a href="https://github.com/Vini7Dev/github-readme-stats"><img height=150
-                                                                  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vini7Dev&layout=compact"/></a>
-</p>
 
 <br/>
 
@@ -248,10 +243,11 @@ In the overview below you will find my most recent work experience:
   </p>
 </div>
 
-<br/>
-<br/>
+<br/><br/>
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
+
+<br />
 
 ## 📘 Academic education
 
@@ -266,6 +262,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
   Bachelor's degree
   </p>
 </div>
+
 <br/>
 
 ## ➕ Additional Information
