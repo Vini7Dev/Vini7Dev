@@ -21,6 +21,8 @@
   </div>
 </div>
 
+<br />
+
 ## 🚀 My main skills
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
@@ -34,6 +36,8 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+
+<br />
 
 ## 📜 Certifications
 
@@ -56,7 +60,7 @@
 
   <p align="right">
 
-  **Institution:** Data Science Academy <br />
+  **Institution:** Data Science Academy <br /><br />
   **Certifications:** `Introduction to Data Science 3.0`
   </p>
 </div>
@@ -69,7 +73,7 @@
 
   <p align="right">
 
-  **Institution:** Rocketseat <br />
+  **Institution:** Rocketseat <br /><br />
   **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
   </p>
 </div>
@@ -82,12 +86,12 @@
 
   <p align="right">
 
-  **Institution:** VTEX <br />
+  **Institution:** VTEX <br /><br />
   **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
   </p>
 </div>
 
-<br/><br/>
+<br/><br/><br/>
 
 ## 💡 Some projects I worked on
 
@@ -202,7 +206,7 @@ and men's accessories <br />
   </p>
 </div>
 
-<br/>
+<br/><br />
 
 ## 💼 Work experience
 
@@ -236,6 +240,8 @@ In the overview below you will find my most recent work experience:
 
 Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
 
+<br />
+
 ## 📘 Academic education
 
 <div>
@@ -250,7 +256,7 @@ Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b
   </p>
 </div>
 
-<br/>
+<br/><br />
 
 ## ➕ Additional Information
 
