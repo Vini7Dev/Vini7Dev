@@ -206,7 +206,7 @@ and men's accessories <br />
   </p>
 </div>
 
-<br/><br/>
+<br/>
 
 ## 💼 Work experience
 
