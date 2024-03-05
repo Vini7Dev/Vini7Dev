@@ -47,9 +47,8 @@
 
   <p align="right">
 
-  **Institution:** Partnership between Oracle Academy and Uni-FACEF <br />
-
-  **Certifications:** `Database Design`, `Programming with SQL`, `Programming with PL/SQL`
+  * **Institution:** Partnership between Oracle Academy and Uni-FACEF <br />
+  * **Certifications:** `Database Design`, `Programming with SQL`, `Programming with PL/SQL`
   </p>
 </div>
 
@@ -61,9 +60,8 @@
 
   <p align="right">
 
-  **Institution:** Data Science Academy <br />
-
-  **Certifications:** `Introduction to Data Science 3.0`
+  * **Institution:** Data Science Academy <br />
+  * **Certifications:** `Introduction to Data Science 3.0`
   </p>
 </div>
 
@@ -75,9 +73,8 @@
 
   <p align="right">
 
-  **Institution:** Rocketseat <br />
-
-  **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
+  * **Institution:** Rocketseat <br />
+  * **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
   </p>
 </div>
 
@@ -89,9 +86,8 @@
 
   <p align="right">
 
-  **Institution:** VTEX <br />
-
-  **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
+  * **Institution:** VTEX <br />
+  * **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
   </p>
 </div>
 
@@ -105,9 +101,9 @@
 
   <p align="right">
 
-  **Project:** [**WAAW By Alok**](https://waaw.com.br/)<br />
-  **Description:** DJ Alok's official e-commerce <br />
-  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
+  * **Project:** [**WAAW By Alok**](https://waaw.com.br/)<br />
+  * **Description:** DJ Alok's official e-commerce <br />
+  * **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
 
@@ -119,9 +115,9 @@
 
   <p align="right">
 
-  **Project:** [**GreenShield EAS Auth System**](#) <br />
-  **Description:** Custom authentication service <br />
-  **Main Tecnologies:** `TypeScript`, `NodeJS`, `NextJS`, `PostgreSQL`, `MongoDB`, `Terraform` , `Docker`, `Google Cloud Platform`
+  * **Project:** [**GreenShield EAS Auth System**](#) <br />
+  * **Description:** Custom authentication service <br />
+  * **Main Tecnologies:** `TypeScript`, `NodeJS`, `NextJS`, `PostgreSQL`, `MongoDB`, `Terraform` , `Docker`, `Google Cloud Platform`
   </p>
 </div>
 
@@ -133,9 +129,9 @@
 
   <p align="right">
 
-  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) <br />
-  **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `Redis`
+  * **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) <br />
+  * **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation <br />
+  * **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `Redis`
   </p>
 </div>
 
@@ -147,9 +143,9 @@
 
   <p align="right">
 
-  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) <br />
-  **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company <br />
-  **Main Tecnologies:** `VTEX Fast Store`, `TypeScript`, `NodeJS`, `NextJS`, `AWS`
+  * **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) <br />
+  * **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company <br />
+  * **Main Tecnologies:** `VTEX Fast Store`, `TypeScript`, `NodeJS`, `NextJS`, `AWS`
   </p>
 </div>
 
@@ -161,9 +157,9 @@
 
   <p align="right">
 
-  **Project:** [**Canali**](https://us.canali.com/) <br />
-  **Description:** E-commerce and customized apps for international clothing sales
-and men's accessories <br />
+  * **Project:** [**Canali**](https://us.canali.com/) <br />
+  * **Description:** E-commerce and customized apps for international clothing sales
+an* d men's accessories <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `NextJS`
   </p>
 </div>
@@ -176,9 +172,9 @@ and men's accessories <br />
 
   <p align="right">
 
-  **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
-  **Description:** Customizations for the most famous Brazilian book selling business <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
+  * **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
+  * **Description:** Customizations for the most famous Brazilian book selling business <br />
+  * **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
   </p>
 </div>
 
@@ -190,9 +186,9 @@ and men's accessories <br />
 
   <p align="right">
 
-  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) <br />
-  **Description:** E-commerce apps for a famous chocolate sales company <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`, `AWS`
+  * **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) <br />
+  * **Description:** E-commerce apps for a famous chocolate sales company <br />
+  * **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`, `AWS`
   </p>
 </div>
 
@@ -204,9 +200,9 @@ and men's accessories <br />
 
   <p align="right">
 
-  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) <br />
-  **Description:** Ecommerce apps for a large shoe and bag sales company <br />
-  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
+  * **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) <br />
+  * **Description:** Ecommerce apps for a large shoe and bag sales company <br />
+  * **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
   </p>
 </div>
 
@@ -222,10 +218,10 @@ In the overview below you will find my most recent work experience:
 
   <p align="right">
 
-  **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
-  **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
-  **Company:** [**Codeby**](https://codeby.global/)  <br />
-  **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
+  * **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
+  * **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
+  * **Company:** [**Codeby**](https://codeby.global/)  <br />
+  * **Technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
   </p>
 </div>
 
