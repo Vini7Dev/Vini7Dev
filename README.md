@@ -151,6 +151,20 @@
 
 <div>
 
+  [<img align="left" width="94px" alt="Saraiva" src="/assets/projects/saraiva.png"/>](https://www.saraiva.com.br/)
+
+  <p align="right">
+
+  **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
+  **Description:** Customizations for the most famous Brazilian book selling business <br />
+  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
   [<img align="left" width="94px" alt="Canali" src="/assets/projects/canali.png"/>](https://us.canali.com/)
 
   <p align="right">
@@ -159,20 +173,6 @@
   **Description:** E-commerce and customized apps for international clothing sales
 and men's accessories <br />
   **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `NextJS`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Saraiva" src="/assets/projects/saraiva.png"/>](https://www.saraiva.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
-  **Description:** Customizations for the most famous Brazilian book selling business <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
   </p>
 </div>
 
@@ -191,20 +191,6 @@ and men's accessories <br />
 </div>
 
 <br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Mercafé - 3 Corações" src="/assets/projects/santalolla.png"/>](https://www.santalolla.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Santa Lolla**](https://www.santalolla.com.br/) <br />
-  **Description:** Ecommerce apps for a large shoe and bag sales company <br />
-  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
-  </p>
-</div>
-
-<br/><br />
 
 ## 💼 Work experience
 
