@@ -123,6 +123,20 @@
 
 <div>
 
+  [<img align="left" width="94px" alt="GreenShield" src="/assets/projects/multify.png"/>](https://github.com/Vini7Dev/timesheet-bot)
+
+  <p align="right">
+
+  **Project:** [**Multify**](https://github.com/Vini7Dev/timesheet-bot) <br />
+  **Description:** Automation in the process of marking hours worked on projects, for the "Timesheet" of "Multidados" <br />
+  **Main Tecnologies:** `TypeScript`, `NodeJS`, `ReactJS`, `Apollo Server`, `GraphQL`, `Socket IO`, `PostgreSQL`, `Redis`, `Selenium`, `Bull (Background Jobs)` , `Docker`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
   [<img align="left" width="94px" alt="Insider" src="/assets/projects/insider.png"/>](https://apps.vtex.com/codeby-useinsider/p)
 
   <p align="right">
@@ -205,7 +219,7 @@ In the overview below you will find my most recent work experience:
   **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
   **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
   **Company:** [**Codeby**](https://codeby.global/)  <br />
-  **Some technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `Postgres`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Software Documentation` <br />
+  **Some technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `PostgreSQL`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Selenium`, `Software Documentation` <br />
   </p>
 </div>
 
