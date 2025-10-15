@@ -186,6 +186,8 @@
   </p>
 </div>
 
+<br /><br />
+
 ## 📚 Certifications
 
 <div>
@@ -271,8 +273,6 @@
 </div>
 
 <br/><br/>
-
----
 
 ## 🌍 Languages
 <div>
