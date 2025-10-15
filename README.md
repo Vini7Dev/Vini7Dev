@@ -1,11 +1,13 @@
-# 💙 Hello, my name is Vinícius!
+# 🤖 Hello, my name is Vinícius!
 
 <div>
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="250px" max-width="250px" width="250px" align="right">
 
   <div align="left">
-  👨‍💻 Full Stack Developer Mid-level at Codeby, a Keyrus company <br /><br />
+  👨‍💻 Experienced Full Stack Developer <br /><br />
   👨‍🎓 Computer Scientist <br /><br />
+  🛠️ Specialized in **Python** **Node.js** and **TypeScript** <br /><br />
+  🤖 Expanding into **Artificial Intelligence** and **LangChain** <br /><br />
   💬 Always keep learning... <br /><br />
   💌 Contact me: ⤵️ <br /><br />
 
@@ -21,32 +23,44 @@
   </div>
 </div>
 
-## 🚀 My main skills
+## 🧠 Technical Expertise
 
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redis/redis.png" alt="Redis"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
 
-<br />
+| Category | Skills |
+|-----------|--------|
+| **Languages** | TypeScript, Python, SQL |
+| **Frontend** | React, Next.js, Tailwind CSS, Zustand |
+| **Backend** | Node.js, Express, Fastify, NestJS, FastAPI |
+| **Databases** | PostgreSQL, MongoDB, Redis, Oracle |
+| **DevOps & Infra** | Docker, AWS Lambda, Google Cloud, Firebase, GitHub Actions |
+| **Artificial Intelligence** | OpenAI API, LangChain, Hugging Face, DeepSeek AI |
+| **Data & Analytics** | Pandas, NumPy, Streamlit, LangGraph |
+| **Practices** | Clean Architecture, SOLID, CI/CD, Scrum, Git Flow |
 
-## 📜 Certifications
+## 🧩 Projects & Highlights
+
+<br/><br/><br/>
 
 <div>
 
-  [<img align="left" width="94px" alt="Oracle Academy" src="/assets/certificates/oracle-academy.png"/>](#)
+  [<img align="left" width="94px" alt="LangChain" src="/assets/lang-chain.png"/>](https://www.langchain.com/)
 
   <p align="right">
 
-  **Institution:** Partnership between Oracle Academy and Uni-FACEF <br /><br/>
-  **Certifications:** `Database Design`, `Programming with SQL`, `Programming with PL/SQL`
+  **Project:** LangChain Chat Assistant <br /><br/>
+  **About:** AI-driven chatbot using Python, LangChain, and OpenAI APIs for automated data retrieval. <br /><br/>
   </p>
 </div>
 
@@ -54,12 +68,12 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Data Science Academy" src="/assets/certificates/data-science-academy.png"/>](#)
+  [<img align="left" width="94px" alt="VTEX" src="/assets/vtex.png"/>](https://vtex.com/)
 
   <p align="right">
 
-  **Institution:** Data Science Academy <br /><br />
-  **Certifications:** `Introduction to Data Science 3.0`
+  **Project:** E-commerce Intelligence Layer <br /><br/>
+  **About:** Developed an AI-based product recommendation service for VTEX clients. <br /><br/>
   </p>
 </div>
 
@@ -67,12 +81,12 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="Rocketseat" src="/assets/certificates/rocketseat.png"/>](#)
+  [<img align="left" width="94px" alt="Streamlit" src="/assets/streamlit.png"/>](https://streamlit.io/)
 
   <p align="right">
 
-  **Institution:** Rocketseat <br /><br />
-  **Certifications:** `GoStack Bootcamp`, `Ignite NodeJS Bootcamp` 
+  **Project:** Streamlit AI Tools <br /><br/>
+  **About:** Built internal dashboards for HR and finance teams to analyze and visualize company data. <br /><br/>
   </p>
 </div>
 
@@ -80,182 +94,213 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="VTEX" src="/assets/certificates/vtex.png"/>](#)
+  [<img align="left" width="94px" alt="VTEX" src="/assets/vtex.png"/>](https://vtex.com/)
 
   <p align="right">
 
-  **Institution:** VTEX <br /><br />
-  **Certifications:** `VTEX IO Developer`, `VTEX Implementation` 
+  **Project:** 2nd Place – VTEX Day Hackathon 2023 <br /><br/>
+  **About:** Developed a prototype integrating VTEX APIs with AI product enrichment. <br /><br/>
+  </p>
+</div>
+
+<br/><br/><br />
+
+## 💼 Professional Experience
+
+<div>
+
+  [<img align="left" width="94px" alt="Keyrus" src="/assets/keyrus.jpg"/>](https://keyrus.com/)
+
+  <p align="right">
+
+  **Full Stack Developer (PL/SR)** <br />
+  📅 May 2023 – Present | São Paulo, Brazil (Remote) <br />
+
+  - Architected and maintained backend microservices using Node.js and PostgreSQL for B2B retail clients.  
+  - Developed frontend dashboards using React and Next.js for data visualization and order management.  
+  - Integrated AI-based solutions with OpenAI and LangChain to automate business workflows.  
+  - Participated in cross-functional meetings to define technical requirements and product roadmaps.  
+  - Mentored junior developers and conducted code reviews to ensure code quality.  
+
+  **Achievements:** <br />
+  ✅ Reduced API response times by 45%. <br />
+  ✅ Created a custom prompt-engineering framework using LangChain to generate product descriptions automatically. <br />
+  ✅ Deployed scalable services on AWS, reducing infrastructure costs by 30%. <br />
+  </p>
+</div>
+
+<div>
+
+  [<img align="left" width="94px" alt="Keyrus" src="/assets/keyrus.jpg"/>](https://keyrus.com/)
+
+  <p align="right">
+
+  **Backend Developer (JR/PL)** <br />
+  📅 Nov 2021 – May 2023 | São Paulo, Brazil (Remote) <br />
+
+  - Designed and implemented RESTful APIs using Node.js, TypeScript, and Express.  
+  - Developed caching layers with Redis and optimized SQL queries for better performance.  
+  - Implemented integrations with VTEX, SAP, and external CRMs.  
+  - Collaborated with QA teams to design automated test pipelines.    
+
+  **Achievements:** <br />
+  ✅ Boosted data sync between services by 25%. <br />
+  ✅ Refactored core modules to adopt TypeScript, improving maintainability and reducing runtime errors. <br />
+  </p>
+</div>
+
+<div>
+
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef.png"/>](https://www.unifacef.com.br/)
+
+  <p align="right">
+
+  **Technical Support Analyst** <br />
+  📅 Oct 2020 – Nov 2021  | Franca, Brazil <br />
+
+  - Provided IT support for academic and administrative systems.  
+  - Maintained network infrastructure, user credentials, and software deployments.  
+  - Supported the internal development of automation scripts and internal tools.    
+
+  **Achievements:** <br />
+  ✅ Reduced incident resolution time by 20%. <br />
+  ✅ Implemented automated reporting using Python scripts. <br />
+  </p>
+</div>
+
+<br /><br /><br />
+
+## 🎓 Education
+
+<div>
+
+  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef.png"/>](https://www.unifacef.com.br/)
+
+  <p align="right">
+
+  **Bachelor’s in Computer Science** <br />
+  📅 Jan 2020 – Dec 2023  | Franca, Brazil <br />
+  [Uni-FACEF](https://www.unifacef.com.br/) `Status: Completed` <br />
+  </p>
+</div>
+
+## 📚 Certifications
+
+<div>
+
+  [<img align="left" width="94px" alt="Xperiun" src="/assets/xperiun.jpg"/>](https://xperiun.com/ed/mba/)
+
+  <p align="right">
+
+  **Certification:** MBA in Business Intelligence & Analytics 360 (2025, Ongoing) <br /><br/>
+  **Institution:** Xperiun <br /><br/>
+  **Tags:** `Database Design`, `Programming`, `Power BI`, `Leadership`, `Data Analysis and Data Science`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Asimov Academy" src="/assets/asimov-academy.png"/>](https://asimov.academy/)
+
+  <p align="right">
+
+  **Certification:** AI Developer with Python (2024, 2025) <br /><br/>
+  **Institution:** Asimov Academy <br /><br/>
+  **Tags:** `OpenAI API`, `Python`, `LangChain`, `Inteligência Artificial`, `Hugging Face`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Oracle Academy" src="/assets/oracle-academy.png"/>](https://academy.oracle.com/)
+
+  <p align="right">
+
+  **Certification:** Programming with PL/SQL (2022) <br /><br/>
+  **Institution:** Oracle Academy <br /><br/>
+  **Tags:** `Oracle`, `PL/SQL`, `SQL`, `Database`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Oracle Academy" src="/assets/oracle-academy.png"/>](https://academy.oracle.com/)
+
+  <p align="right">
+
+  **Certification:** Database Design (2021) <br /><br/>
+  **Institution:** Oracle Academy <br /><br/>
+  **Tags:** `Oracle`, `Database Design`, `SQL`, `Database`, `Normal Forms`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Rocketseat" src="/assets/rocketseat.png"/>](https://www.rocketseat.com.br/)
+
+  <p align="right">
+
+  **Certification:** Ignite Node.js (2021) <br /><br/>
+  **Institution:** Rocketseat <br /><br/>
+  **Tags:** `NodeJS`, `PostgresSQL`, `Redis`, `Express`, `Jest`, `SOLID`, `NestJS`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
+  [<img align="left" width="94px" alt="Rocketseat" src="/assets/rocketseat.png"/>](https://www.rocketseat.com.br/)
+
+  <p align="right">
+
+  **Certification:** GoStack: Node.js, React and React Native (2020) <br /><br/>
+  **Institution:** Rocketseat <br /><br/>
+  **Tags:** `NodeJS`, `ReactJS`, `React Native`, `Jest`, `SOLID`, `DDD`
   </p>
 </div>
 
 <br/><br/><br/>
 
-## 💡 Some projects I worked on
+---
 
+## 🌍 Languages
 <div>
 
-  [<img align="left" width="94px" alt="WAAW By Alok" src="/assets/projects/waaw.png"/>](https://waaw.com.br/)
+  [<img align="left" width="94px" alt="English" src="/assets/english.png"/>](#)
 
   <p align="right">
 
-  **Project:** [**WAAW By Alok**](https://waaw.com.br/)<br />
-  **Description:** DJ Alok's official e-commerce <br />
-  **Main Tecnologies:** `Shopify`, `SCSS`, `JavaScript`, `Liquid`, `Handlebars`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="GreenShield" src="/assets/projects/greenshield.png"/>](#)
-
-  <p align="right">
-
-  **Project:** [**GreenShield EAS Auth System**](#) <br />
-  **Description:** Custom authentication service <br />
-  **Main Tecnologies:** `TypeScript`, `NodeJS`, `NextJS`, `PostgreSQL`, `MongoDB`, `Terraform` , `Docker`, `Google Cloud Platform`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="GreenShield" src="/assets/projects/multify.png"/>](https://github.com/Vini7Dev/timesheet-bot)
-
-  <p align="right">
-
-  **Project:** [**Multify**](https://github.com/Vini7Dev/timesheet-bot) <br />
-  **Description:** Automation in the process of marking hours worked on projects, for the "Timesheet" of "Multidados" <br />
-  **Main Tecnologies:** `TypeScript`, `NodeJS`, `ReactJS`, `Apollo Server`, `GraphQL`, `Socket IO`, `PostgreSQL`, `Redis`, `Selenium`, `Bull (Background Jobs)` , `Docker`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Insider" src="/assets/projects/insider.png"/>](https://apps.vtex.com/codeby-useinsider/p)
-
-  <p align="right">
-
-  **Project:** [**VTEX Insider App**](https://apps.vtex.com/codeby-useinsider/p) <br />
-  **Description:** Collection of navigation data from users in e-commerce for Artificial Intelligence training for product recommendation <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `Redis`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Mercafé (3 Corações)" src="/assets/projects/mercafe.png"/>](https://www.mercafe.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Mercafé (3 Corações)**](https://www.mercafe.com.br/) <br />
-  **Description:** Customizations for the most famous Brazilian coffee and coffee machine sales company <br />
-  **Main Tecnologies:** `VTEX Fast Store`, `TypeScript`, `NodeJS`, `NextJS`, `AWS`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Saraiva" src="/assets/projects/saraiva.png"/>](https://www.saraiva.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Saraiva**](https://www.saraiva.com.br/) <br />
-  **Description:** Customizations for the most famous Brazilian book selling business <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Canali" src="/assets/projects/canali.png"/>](https://us.canali.com/)
-
-  <p align="right">
-
-  **Project:** [**Canali**](https://us.canali.com/) <br />
-  **Description:** E-commerce and customized apps for international clothing sales
-and men's accessories <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `NextJS`
-  </p>
-</div>
-
-<br/><br/>
-
-<div>
-
-  [<img align="left" width="94px" alt="Dengo Chocolates" src="/assets/projects/dengo.png"/>](https://www.dengo.com.br/)
-
-  <p align="right">
-
-  **Project:** [**Dengo Chocolates**](https://www.dengo.com.br/) <br />
-  **Description:** E-commerce apps for a famous chocolate sales company <br />
-  **Main Tecnologies:** `VTEX IO`, `TypeScript`, `NodeJS`, `ReactJS`, `AWS`
-  </p>
-</div>
-
-<br/><br/>
-
-## 💼 Work experience
-
-In the overview below you will find my most recent work experience:
-
-<div>
-
-  [<img align="left" width="94px" alt="Codeby, a Keyrus company" src="/assets/codeby-logo.png"/>](https://codeby.global/)
-
-  <p align="right">
-
-  **Full Stack Developer  (Mid-level)** • may/2023 > at the time <br />
-  **Back-end Developer (Junior & Mid-level)** • nov/2021 > may/2023 <br />
-  **Company:** [**Codeby**](https://codeby.global/)  <br />
-  **Some technologies:** `VTEX`, `Shopify`, `NodeJS`, `ReactJS`, `JavaScript`, `Typescript`, `PostgreSQL`, `Redis`, `MongoDB`, `AWS`, `Google Cloud`, `Firebase`, `API REST`, `Git`, `Docker`, `Selenium`, `Software Documentation` <br />
-  </p>
-</div>
-
-<div>
-
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef-logo.png"/>](https://www.unifacef.com.br/)
-
-  <p align="right">
-
-  **Technical Support Analyst** • oct/2020 > nov/2021 <br />
-  **Company:** [**Uni-FACEF**](https://www.unifacef.com.br/)
-  </p>
-</div>
-
-<br/><br/>
-
-Find me on [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-gabriel-9b02091b5/) for a more detailed description of my professional experience.
-
-<br />
-
-## 📘 Academic education
-
-<div>
-
-  [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef-logo.png"/>](https://www.unifacef.com.br/)
-
-  <p align="right">
-
-  **Computer Science** <br />
-  [**Uni-FACEF**](https://www.unifacef.com.br/) • jan/2020 > dec/2023 <br />
-  Bachelor's degree
+  **English:** Intermediate (B1)
   </p>
 </div>
 
 <br/><br />
 
-## ➕ Additional Information
+<div>
 
-* Willingness and ease in learning.
+  [<img align="left" width="94px" alt="Spanish" src="/assets/spanish.png"/>](#)
+
+  <p align="right">
+
+  **Spanish:** Basic (A2)
+  </p>
+</div>
+
+<br/><br /><br />
+
+## 💡 Professional Interests
+
+- Artificial Intelligence & Machine Learning  
+- Data-driven Applications  
+- AI-Powered Automation  
+- Cloud-Native Development  
+- International Collaboration Opportunities  
