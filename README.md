@@ -127,6 +127,8 @@
   </p>
 </div>
 
+---
+
 <div>
 
   [<img align="left" width="94px" alt="Keyrus" src="/assets/keyrus.jpg"/>](https://keyrus.com/)
@@ -146,6 +148,8 @@
   ✅ Refactored core modules to adopt TypeScript, improving maintainability and reducing runtime errors. <br />
   </p>
 </div>
+
+---
 
 <div>
 
