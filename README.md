@@ -51,8 +51,6 @@
 
 ## 🧩 Projects & Highlights
 
-<br/><br/><br/>
-
 <div>
 
   [<img align="left" width="94px" alt="LangChain" src="/assets/lang-chain.png"/>](https://www.langchain.com/)
@@ -103,7 +101,7 @@
   </p>
 </div>
 
-<br/><br/><br />
+<br/><br/>
 
 ## 💼 Professional Experience
 
@@ -114,7 +112,7 @@
   <p align="right">
 
   **Full Stack Developer (PL/SR)** <br />
-  📅 May 2023 – Present | São Paulo, Brazil (Remote) <br />
+  📅 May 2023 – Present | São Paulo, Brazil (Remote) <br /><br /><br />
 
   - Architected and maintained backend microservices using Node.js and PostgreSQL for B2B retail clients.  
   - Developed frontend dashboards using React and Next.js for data visualization and order management.  
@@ -129,6 +127,8 @@
   </p>
 </div>
 
+---
+
 <div>
 
   [<img align="left" width="94px" alt="Keyrus" src="/assets/keyrus.jpg"/>](https://keyrus.com/)
@@ -136,7 +136,7 @@
   <p align="right">
 
   **Backend Developer (JR/PL)** <br />
-  📅 Nov 2021 – May 2023 | São Paulo, Brazil (Remote) <br />
+  📅 Nov 2021 – May 2023 | São Paulo, Brazil (Remote) <br /><br /><br />
 
   - Designed and implemented RESTful APIs using Node.js, TypeScript, and Express.  
   - Developed caching layers with Redis and optimized SQL queries for better performance.  
@@ -149,6 +149,8 @@
   </p>
 </div>
 
+---
+
 <div>
 
   [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef.png"/>](https://www.unifacef.com.br/)
@@ -156,7 +158,7 @@
   <p align="right">
 
   **Technical Support Analyst** <br />
-  📅 Oct 2020 – Nov 2021  | Franca, Brazil <br />
+  📅 Oct 2020 – Nov 2021  | Franca, Brazil <br /><br /><br />
 
   - Provided IT support for academic and administrative systems.  
   - Maintained network infrastructure, user credentials, and software deployments.  
@@ -168,7 +170,7 @@
   </p>
 </div>
 
-<br /><br /><br />
+<br /><br />
 
 ## 🎓 Education
 
@@ -268,7 +270,7 @@
   </p>
 </div>
 
-<br/><br/><br/>
+<br/><br/>
 
 ---
 
@@ -295,7 +297,7 @@
   </p>
 </div>
 
-<br/><br /><br />
+<br/><br />
 
 ## 💡 Professional Interests
 
