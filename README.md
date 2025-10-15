@@ -306,3 +306,4 @@
 - AI-Powered Automation  
 - Cloud-Native Development  
 - International Collaboration Opportunities  
+- Willingness and ease in learning.
