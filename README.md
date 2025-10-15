@@ -6,8 +6,8 @@
   <div align="left">
   👨‍💻 Experienced Full Stack Developer <br /><br />
   👨‍🎓 Computer Scientist <br /><br />
-  🛠️ Specialized in **Python** **Node.js** and **TypeScript** <br /><br />
-  🤖 Expanding into **Artificial Intelligence** and **LangChain** <br /><br />
+  🛠️ Specialized in Python Node.js and TypeScript <br /><br />
+  🤖 Expanding into Artificial Intelligence and LangChain <br /><br />
   💬 Always keep learning... <br /><br />
   💌 Contact me: ⤵️ <br /><br />
 
@@ -101,7 +101,7 @@
   </p>
 </div>
 
-<br/><br/>
+<br/>
 
 ## 💼 Professional Experience
 
@@ -127,8 +127,6 @@
   </p>
 </div>
 
----
-
 <div>
 
   [<img align="left" width="94px" alt="Keyrus" src="/assets/keyrus.jpg"/>](https://keyrus.com/)
@@ -148,8 +146,6 @@
   ✅ Refactored core modules to adopt TypeScript, improving maintainability and reducing runtime errors. <br />
   </p>
 </div>
-
----
 
 <div>
 
@@ -272,7 +268,7 @@
   </p>
 </div>
 
-<br/><br/>
+<br/>
 
 ## 🌍 Languages
 <div>
