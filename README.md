@@ -184,8 +184,8 @@
   <p align="right">
 
   **MBA in Business Intelligence & Analytics 360** <br />
-  [Xperiun](https://xperiun.com/ed/mba/) <br />
   📅 Mar 2025 – Ongoing  | Biguaçu, Brazil (Remote) <br />
+  [Xperiun](https://xperiun.com/ed/mba/) <br />
   </p>
 </div>
 
@@ -198,8 +198,8 @@
   <p align="right">
 
   **Bachelor’s in Computer Science** <br />
-  [Uni-FACEF](https://www.unifacef.com.br/) <br />
   📅 Jan 2020 – Dec 2023  | Franca, Brazil <br />
+  [Uni-FACEF](https://www.unifacef.com.br/) <br />
   </p>
 </div>
 
