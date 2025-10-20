@@ -112,7 +112,8 @@
   <p align="right">
 
   **Full Stack Developer (PL/SR)** <br />
-  📅 May 2023 – Present | São Paulo, Brazil (Remote) <br /><br /><br />
+  📅 May 2023 – Present | São Paulo, Brazil (Remote) <br />
+  [Keyrus](https://keyrus.com/) <br /><br /><br />
 
   - Architected and maintained backend microservices using Node.js and PostgreSQL for B2B retail clients.  
   - Developed frontend dashboards using React and Next.js for data visualization and order management.  
@@ -136,7 +137,8 @@
   <p align="right">
 
   **Backend Developer (JR/PL)** <br />
-  📅 Nov 2021 – May 2023 | São Paulo, Brazil (Remote) <br /><br /><br />
+  📅 Nov 2021 – May 2023 | São Paulo, Brazil (Remote) <br />
+  [Keyrus](https://keyrus.com/) <br /><br /><br />
 
   - Designed and implemented RESTful APIs using Node.js, TypeScript, and Express.  
   - Developed caching layers with Redis and optimized SQL queries for better performance.  
@@ -158,7 +160,8 @@
   <p align="right">
 
   **Technical Support Analyst** <br />
-  📅 Oct 2020 – Nov 2021  | Franca, Brazil <br /><br /><br />
+  📅 Oct 2020 – Nov 2021  | Franca, Brazil <br />
+  [Uni-FACEF](https://www.unifacef.com.br/) <br /><br /><br />
 
   - Provided IT support for academic and administrative systems.  
   - Maintained network infrastructure, user credentials, and software deployments.  
@@ -180,9 +183,9 @@
 
   <p align="right">
 
-  **Certification:** MBA in Business Intelligence & Analytics 360 (2025, Ongoing) <br /><br/>
-  **Institution:** Xperiun <br /><br/>
-  **Tags:** `Database Design`, `Programming`, `Power BI`, `Leadership`, `Data Analysis and Data Science`
+  **MBA in Business Intelligence & Analytics 360** <br />
+  [Xperiun](https://xperiun.com/ed/mba/) <br />
+  📅 Mar 2025 – Ongoing  | Biguaçu, Brazil (Remote) <br />
   </p>
 </div>
 
@@ -195,8 +198,8 @@
   <p align="right">
 
   **Bachelor’s in Computer Science** <br />
+  [Uni-FACEF](https://www.unifacef.com.br/) <br />
   📅 Jan 2020 – Dec 2023  | Franca, Brazil <br />
-  [Uni-FACEF](https://www.unifacef.com.br/) `Status: Completed` <br />
   </p>
 </div>
 
