@@ -176,6 +176,20 @@
 
 <div>
 
+  [<img align="left" width="94px" alt="Xperiun" src="/assets/xperiun.jpg"/>](https://xperiun.com/ed/mba/)
+
+  <p align="right">
+
+  **Certification:** MBA in Business Intelligence & Analytics 360 (2025, Ongoing) <br /><br/>
+  **Institution:** Xperiun <br /><br/>
+  **Tags:** `Database Design`, `Programming`, `Power BI`, `Leadership`, `Data Analysis and Data Science`
+  </p>
+</div>
+
+<br/><br/>
+
+<div>
+
   [<img align="left" width="94px" alt="Uni-FACEF" src="/assets/unifacef.png"/>](https://www.unifacef.com.br/)
 
   <p align="right">
@@ -189,20 +203,6 @@
 <br /><br />
 
 ## 📚 Certifications
-
-<div>
-
-  [<img align="left" width="94px" alt="Xperiun" src="/assets/xperiun.jpg"/>](https://xperiun.com/ed/mba/)
-
-  <p align="right">
-
-  **Certification:** MBA in Business Intelligence & Analytics 360 (2025, Ongoing) <br /><br/>
-  **Institution:** Xperiun <br /><br/>
-  **Tags:** `Database Design`, `Programming`, `Power BI`, `Leadership`, `Data Analysis and Data Science`
-  </p>
-</div>
-
-<br/><br/>
 
 <div>
 
